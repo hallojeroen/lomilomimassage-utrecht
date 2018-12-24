@@ -3144,12 +3144,6 @@ body.is-preload #sidebar nav ul li {
     background-color: #b74e91;
   }
 }
-@media screen and (max-width: 736px) {
-  #sidebar {
-    display: none;
-  }
-}
-
 /* Intro */
 #intro {
   background-attachment: fixed;
