@@ -37,3 +37,4 @@ Sass info: http://sass-lang.com/guide
 --------------------------------------------------------------
 Setup watcher: via --watch
 - sass --watch assets/sass:assets/css
+!!!!  MAKE SURE YOU ARE IN THE CORRECT WORKING DIR (V2) !!!!!!
